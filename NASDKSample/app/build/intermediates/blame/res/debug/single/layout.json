@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\GithubSDK\\NASDKSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "E:\\GithubSDK\\NASDKSample\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\GithubSDK\\NASDKSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup_password_dialog.xml",
+        "source": "E:\\GithubSDK\\NASDKSample\\app\\src\\main\\res\\layout\\setup_password_dialog.xml"
+    },
+    {
+        "merged": "E:\\GithubSDK\\NASDKSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_layout.xml",
+        "source": "E:\\GithubSDK\\NASDKSample\\app\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_password_dialog.xml",
+        "source": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\src\\main\\res\\layout\\input_password_dialog.xml"
+    },
+    {
+        "merged": "E:\\GithubSDK\\NASDKSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "E:\\GithubSDK\\NASDKSample\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "E:\\GithubSDK\\NASDKSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_password_dialog.xml",
+        "source": "E:\\GithubSDK\\NASDKSample\\app\\src\\main\\res\\layout\\input_password_dialog.xml"
+    },
+    {
+        "merged": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "E:\\GithubSDK\\NASDKSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\GithubSDK\\NASDKSample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setup_password_dialog.xml",
+        "source": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\src\\main\\res\\layout\\setup_password_dialog.xml"
+    },
+    {
+        "merged": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_layout.xml",
+        "source": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\src\\main\\res\\layout\\list_layout.xml"
+    }
+]

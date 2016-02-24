@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\GithubSDK\\NASDKSample\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_settings.xml",
+        "source": "E:\\GithubSDK\\NASDKSample\\app\\src\\main\\res\\xml\\pref_settings.xml"
+    },
+    {
+        "merged": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_settings.xml",
+        "source": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\src\\main\\res\\xml\\pref_settings.xml"
+    }
+]

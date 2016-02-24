@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_actionbar.png",
+        "source": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\src\\main\\res\\drawable-mdpi\\bg_actionbar.png"
+    },
+    {
+        "merged": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher_n.png",
+        "source": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_n.png"
+    },
+    {
+        "merged": "E:\\GithubSDK\\NASDKSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home.png",
+        "source": "E:\\GithubSDK\\NASDKSample\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\GithubSDK\\NASDKSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg_actionbar.png",
+        "source": "E:\\GithubSDK\\NASDKSample\\app\\src\\main\\res\\drawable-mdpi\\bg_actionbar.png"
+    },
+    {
+        "merged": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home.png",
+        "source": "D:\\90_Hybrid_SVN\\_trunk\\NASDK\\NASDKSampleCode2\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\GithubSDK\\NASDKSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher_n.png",
+        "source": "E:\\GithubSDK\\NASDKSample\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_n.png"
+    }
+]

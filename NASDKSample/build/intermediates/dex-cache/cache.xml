@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\60_soft\Andoid\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\90_Hybrid_SVN\_trunk\NASDK\NASDKSampleCode2\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_860533f3da7e0eb0f8d21b29ec7dd212af149fee.jar" />
+    </item>
+    <item
+        jar="D:\90_Hybrid_SVN\_trunk\NASDK\NASDKSampleCode2\app\lib\NASDK160223.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6beeb809c134b993bf27fbf9e32c4756b1f7819">
+        <dex dex="D:\90_Hybrid_SVN\_trunk\NASDK\NASDKSampleCode2\app\build\intermediates\pre-dexed\debug\NASDK160223_8a5c5f3db084e9b2498db4e847efac2b734c734c.jar" />
+    </item>
+    <item
+        jar="E:\GithubSDK\NASDKSample\app\libs\NASDK_1.01.0005.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="55861f3bb9bbf122548e32d5d53552f542419cfd">
+        <dex dex="E:\GithubSDK\NASDKSample\app\build\intermediates\pre-dexed\debug\NASDK_1.01.0005_feb8ce9c0152d5fb3411341ed50bce03c5b55850.jar" />
+    </item>
+
+</items>
